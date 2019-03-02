@@ -1,9 +1,9 @@
 {
-  "name": "node-kodi",
-  "description": "Node interface for Kodi using JSON-RPC",
+  "name": "node-kodi-fix",
+  "description": "Node interface for Kodi using JSON-RPC\r\nFrom 'node-kodi' created by Martin Verup\r\nSee : https://github.com/martinverup/node-kodi",
   "author": {
-    "name": "Martin Verup",
-    "email": "mverup@gmail.com"
+    "name": "Christopher Rombach",
+    "email": "christopher.rombach@gmail.com"
   },
   "keywords": [
     "kodi",
@@ -12,23 +12,23 @@
     "movies",
     "tv"
   ],
-  "version": "0.0.2-alpha",
+  "version": "0.0.3-alpha",
   "main": "lib/kodi-rpc.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com:martinverup/node-kodi.git"
+    "url": "git://github.com:Noodlex/node-kodi-fix.git"
   },
   "dependencies": {
     "q": "~0.8.12",
     "request": "~2.9.203"
   },
-  "homepage": "https://github.com/martinverup/node-kodi",
+  "homepage": "https://github.com/Noodlex/node-kodi-ix",
   "license": "GPL v2",
   "bugs": {
-    "url": "https://github.com/martinverup/node-kodi/issues"
+    "url": "https://github.com/Noodlex/node-kodi-fix/issues"
   },
-  "readme": "node-kodi\r\n================\r\nNode interface for Kodi using JSON-RPC",
+  "readme": "node-kodi-fix\r\n================\r\nNode interface for Kodi using JSON-RPC",
   "readmeFilename": "README.md",
-  "_id": "node-kodi@0.0.2-alpha",
-  "_from": "node-kodi@"
+  "_id": "node-kodi-fix@0.0.3-alpha",
+  "_from": "node-kodi-fix@"
 }
