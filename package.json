@@ -9,7 +9,7 @@
     "movies",
     "tv"
   ],
-  "version": "0.0.4-alpha",
+  "version": "0.0.5-alpha",
   "main": "lib/kodi-rpc.js",
   "repository": {
     "type": "git",
