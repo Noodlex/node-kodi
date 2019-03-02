@@ -16,16 +16,16 @@
   "main": "lib/kodi-rpc.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com:Noodlex/node-kodi-fix.git"
+    "url": "git://github.com:Noodlex/node-kodi.git"
   },
   "dependencies": {
     "q": "~0.8.12",
     "request": "~2.9.203"
   },
-  "homepage": "https://github.com/Noodlex/node-kodi-ix",
+  "homepage": "https://github.com/Noodlex/node-kodi",
   "license": "GPL v2",
   "bugs": {
-    "url": "https://github.com/Noodlex/node-kodi-fix/issues"
+    "url": "https://github.com/Noodlex/node-kodi/issues"
   },
   "readme": "node-kodi-fix\r\n================\r\nNode interface for Kodi using JSON-RPC",
   "readmeFilename": "README.md",
