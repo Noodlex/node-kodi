@@ -1,10 +1,7 @@
 {
-  "name": "node-kodi-fix",
+  "name": "@noodlex/node-kodi-fix",
   "description": "Node interface for Kodi using JSON-RPC\r\nFrom 'node-kodi' created by Martin Verup\r\nSee : https://github.com/martinverup/node-kodi",
-  "author": {
-    "name": "Christopher Rombach",
-    "email": "christopher.rombach@gmail.com"
-  },
+  "author": "Christopher Rombach <christopher.rombach@gmail.com>",
   "keywords": [
     "kodi",
     "htpc",
@@ -16,19 +13,23 @@
   "main": "lib/kodi-rpc.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com:Noodlex/node-kodi.git"
+    "url": "git://github.com/Noodlex/node-kodi.git"
   },
   "dependencies": {
     "q": "~0.8.12",
     "request": "~2.9.203"
   },
   "homepage": "https://github.com/Noodlex/node-kodi",
-  "license": "GPL v2",
+  "license": "GPL-2.0-only",
   "bugs": {
     "url": "https://github.com/Noodlex/node-kodi/issues"
   },
-  "readme": "node-kodi-fix\r\n================\r\nNode interface for Kodi using JSON-RPC",
-  "readmeFilename": "README.md",
-  "_id": "node-kodi-fix@0.0.3-alpha",
-  "_from": "node-kodi-fix@"
+  "_from": "node-kodi-fix@",
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
